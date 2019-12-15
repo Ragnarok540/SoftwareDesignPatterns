@@ -1,3 +1,5 @@
 public interface Strategy {
-  public void algorithm();
+
+    public void algorithm();
+
 }
