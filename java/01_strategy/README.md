@@ -27,7 +27,7 @@ This pattern is used when:
 
 ## Structure
 
-![foo](/java/01_strategy/strategy.png "Strategy")
+![strategy](/java/01_strategy/strategy.png "Strategy")
 
 ## Participants
 
