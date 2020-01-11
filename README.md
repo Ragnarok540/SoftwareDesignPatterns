@@ -1,6 +1,8 @@
 # SoftwareDesignPatterns
 Examples of Software Design Patterns
 
+
+
 ## Behavioral
 
 ### Java
@@ -13,3 +15,9 @@ Examples of Software Design Patterns
 ### Java
 
 - [Decorator](https://github.com/Ragnarok540/SoftwareDesignPatterns/tree/master/java/03_decorator)
+
+## Creational
+
+### Java
+
+- [Factory Method](https://github.com/Ragnarok540/SoftwareDesignPatterns/tree/master/java/04_factory_method)
